@@ -15,5 +15,3 @@ http://localhost:9411/zipkin/
 
 http://localhost:8080/actuator/refresh
 http://localhost:8081/actuator/bus-refresh
-
-test
