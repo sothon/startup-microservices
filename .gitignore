@@ -1,3 +1,4 @@
 zipkin-server-2.21.7-exec.jar
 /git-localconfig-repo/.git/
 *.orig
+/.metadata/
